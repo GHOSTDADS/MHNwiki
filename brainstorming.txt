@@ -1,0 +1,12 @@
+a wiki site for MHN.
+
+Main bar at the top?
+Side bar for quick nav?
+
+armours section?
+    needs sorting based on skills or monster requirements?
+    clicking a skill tab filters all non mathcing armour?
+
+monster section?
+    filter based on element or location?
+    
